@@ -1,5 +1,4 @@
-# Hi 👋, I'm abdul subhan
-# Hi 👋, I'm Abdul Subhan
+# Hi 👋, I'm Subhan Abdul
 
 ### Senior QA Automation Engineer | 10+ Years Experience
 
@@ -10,11 +9,6 @@ and API test automation across enterprise environments.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-subhan--abdul--qa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhan-abdul-qa)
 [![GitHub](https://img.shields.io/badge/GitHub-abdul2605-black?style=flat&logo=github)](https://github.com/abdul2605)
 
-### A passionate Software developer in Test
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul2605&label=Profile views&color=0e75b6&style=flat" alt="abdul2605" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul2605" alt="abdul2605" /></a> </p>
 
 - 🔭 I'm currently working on **QA Automation frameworks using  Selenium, WebdriverIO, Playwright, and Appium with TypeScript , Java and also remote SAAS based application browser stack and Lamda test**
 
