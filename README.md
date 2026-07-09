@@ -1,4 +1,14 @@
 # Hi 👋, I'm abdul subhan
+# Hi 👋, I'm Abdul Subhan
+
+### Senior QA Automation Engineer | 10+ Years Experience
+
+A passionate Software Developer in Test specializing in web, mobile, 
+and API test automation across enterprise environments.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdul2605.github.io-blue?style=flat&logo=github)](https://abdul2605.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-subhan--abdul--qa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhan-abdul-qa)
+[![GitHub](https://img.shields.io/badge/GitHub-abdul2605-black?style=flat&logo=github)](https://github.com/abdul2605)
 
 ### A passionate Software developer in Test
 
