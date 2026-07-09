@@ -1,5 +1,5 @@
-# Hi 👋, I'm Abdul Subhan
-### Senior QA Automation Engineer | 17+ Years Experience
+# Hi 👋, I'm Subhan Abdul
+### Senior QA Automation Engineer | 10+ Years Experience
 
 A passionate Software Developer in Test specializing in web, mobile, and API test automation across enterprise environments.
 
